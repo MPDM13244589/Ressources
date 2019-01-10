@@ -1,0 +1,6 @@
+Nous avons proposons d'explorer:
+a-web Speech API de w3c sur github
+https://github.com/w3c/speech-api
+
+b-w3c vibration API sur github
+https://github.com/w3c/vibration
